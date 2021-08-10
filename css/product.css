@@ -11,6 +11,9 @@
 .prod__img-box {
     margin-bottom: 3rem;
 }
+.disable-btn {
+    pointer-events: none;
+}
 .prod__img {
     margin-bottom: 2rem;
     max-height: 35rem;
