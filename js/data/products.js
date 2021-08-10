@@ -281,24 +281,24 @@ export const products = [
     },
     {
         id: 'product-13',
-        name: 'Smart watch',
+        name: 'Powered Studio Monitor',
         price: 119.00,
         discount: 120.88,
         image: './img/img13.png',
         description: [
             {
-                text: 'Personalize your watch with thousands of free watch faces, apps and widgets',
+                text: 'High/Low-frequency controls contour your sound for environment, preference, and music style, and the custom bi-amped, class A/B amp offers large headroom and low distortion',
             },
             {
-                text: 'Monitor your fitness level with VO2 max and fitness made estimates, plus keep an eye on how you handle stress',
+                text: 'Soft-dome tweeter with optimized waveguide provides smooth, pristine and articulate highs up to 35kHz',
             },
             {
-                text: 'Get connected features such as smart notifications and automatic uploads',
+                text: 'The low-resonance enclosure minimizes distortion and color, and the lightweight, glass-aramid composite woofer delivers clear midrange and tight bass',
             },
             {
-                text: 'Battery life: Up to 7 days in smartwatch mode; 13 hours in GPS mode. Display size: 1.2 inch diameter',
+                text: 'Flat Low Frequency Adjustment adding versatility and improved accuracy for mixes that translate in different environments',
             },
         ],
-        images: ['./img/img13-1.png', './img/img13-2.png'],
+        images: ['./img/img13-1.png', './img/img13-2.png', './img/img13-3.png'],
     },
 ]
