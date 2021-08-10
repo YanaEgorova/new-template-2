@@ -176,7 +176,7 @@ export const products = [
     },
     {
         id: 'product-9',
-        name: 'Leather Chair',
+        name: 'Multi-Speed Stand Mixer',
         price: 79.99,
         discount: 79.93,
         image: './img/img9.png',
@@ -281,7 +281,7 @@ export const products = [
     },
     {
         id: 'product-13',
-        name: 'Powered Studio Monitor',
+        name: 'Powered Studio Speaker',
         price: 119.00,
         discount: 120.88,
         image: './img/img13.png',
